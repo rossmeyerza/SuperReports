@@ -1,0 +1,17 @@
+{
+  "name": "superreports",
+  "version": "1.0.0",
+  "description": "Aggregation of metrics into database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^1.1.1",
+    "csvtojson": "^1.1.7",
+    "minimist": "^1.2.0",
+    "mysql": "^2.13.0"
+  }
+}
