@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^2.0.1",
     "csv": "^1.1.1",
     "csvtojson": "^1.1.7",
     "minimist": "^1.2.0",
